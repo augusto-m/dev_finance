@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://dev-finance.netlify.app/",
+    "watchForFileChanges": true,
+    "defaultTimeout": 10000,
+    "pageLoadTimeout": 12000,
+    "defaultCommandTimeout": 8000,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+}
